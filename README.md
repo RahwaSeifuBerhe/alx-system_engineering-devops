@@ -1,3 +1,2 @@
-# alx-system_engineering-devops
-#The folder contains project related to the system engineering and develops at ALX
+# 0x01-shell_permissions
 Each script shows the commands we use for different purpose in linux
