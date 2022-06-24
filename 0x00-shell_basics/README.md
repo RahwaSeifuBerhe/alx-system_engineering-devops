@@ -1,3 +1,3 @@
 # 0x00-Shell_basics
-# Task 1
-command that contents list of your current directory.
+# Task 2
+Write a script that changes the working directory to the user’s home directory.
