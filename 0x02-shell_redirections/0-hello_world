@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod +x hello.sh
+/alx-system_engineering-devops/0x02-shell_redirections
